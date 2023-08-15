@@ -19,9 +19,6 @@ import 'package:note_taking_app/Pages/home/home_page.dart';
 // Auth_controller
 import 'Authentication_Services/auth_controller.dart';
 
-// Device Preview
-import 'package:device_preview/device_preview.dart';
-
 // Colors
 import 'constants/colors.dart';
 
